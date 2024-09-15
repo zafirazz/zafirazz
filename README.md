@@ -46,6 +46,8 @@
 <img align="left" alt="TensorFlow" title="TensorFlow" width="35px" src="https://skillicons.dev/icons?i=tensorflow" style="padding-right:15px;" />
 <img align="left" alt="PyTorch" title="PyTorch" width="35px" src="https://skillicons.dev/icons?i=pytorch" style="padding-right:15px;" />
 <img align="left" alt="Scikit Learn" title="Scikit Learn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:15px;" />
+<img align="left" alt="Jupyter" title="Jupyter" width="35px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" style="padding-right:15px;" />
+<img align="left" alt="Pandas" title="Pandas" width="35px" src="https://skillicons.dev/icons?i=pandas" style="padding-right:15px;" />
 
 <br><br>
 
