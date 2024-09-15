@@ -42,6 +42,7 @@
 
 <!-- Math and Python Libraries -->
 <img align="left" alt="Anaconda" title="Anaconda" width="35px" src="https://skillicons.dev/icons?i=anaconda" style="padding-right:15px;" />
+<img align="left" alt="PyTest" title="PyTest" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" style="padding-right:15px;" />
 <img align="left" alt="NumPy" title="NumPy" width="35px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" style="padding-right:15px;" />
 <img align="left" alt="TensorFlow" title="TensorFlow" width="35px" src="https://skillicons.dev/icons?i=tensorflow" style="padding-right:15px;" />
 <img align="left" alt="PyTorch" title="PyTorch" width="35px" src="https://skillicons.dev/icons?i=pytorch" style="padding-right:15px;" />
@@ -50,7 +51,7 @@
 <img align="left" alt="Pandas" title="Pandas" width="35px" src="https://skillicons.dev/icons?i=pandas" style="padding-right:15px;" />
 
 <br><br>
-
+### Software tools:
 <!-- Software Tools -->
 <img align="left" alt="Git" title="Git" width="35px" src="https://skillicons.dev/icons?i=git" style="padding-right:15px;" />
 <img align="left" alt="GitHub" title="GitHub" width="35px" src="https://skillicons.dev/icons?i=github" style="padding-right:15px;" />
@@ -58,7 +59,7 @@
 <img align="left" alt="Linux" title="Linux" width="35px" src="https://skillicons.dev/icons?i=linux" style="padding-right:15px;" />
 <img align="left" alt="JIRA" title="JIRA" width="35px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" style="padding-right:15px;" />
 <img align="left" alt="Confluence" title="Confluence" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/confluence/confluence-original.svg" style="padding-right:15px;" />
-<img align="left" alt="PyTest" title="PyTest" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" style="padding-right:15px;" />
+
 <br><br>
 
 ### Currently Learning:
