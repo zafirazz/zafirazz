@@ -1,4 +1,4 @@
-## Hi there, my name is Zafira 👋
+## Hi there, my name is Zafira <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 
 - 📚 I’m currently studying Computer Science in University of Debrecen.
 - 🌱 I’m always eager to expand my knowledge.
