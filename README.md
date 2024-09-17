@@ -10,7 +10,7 @@
 [![linkedin link](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zafiraibraeva/)](https://www.linkedin.com/in/zafira-ibraeva-127724215/)
 [![email link](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zafiraibraeva@gmail.com)](mailto:zafiraibraeva@gmail.com)
 [![goodreads profile link](https://img.shields.io/badge/-Goodreads-372213?style=flat-square&logo=Goodreads&logoColor=white&link=https://goodreads.com/marbelle)](https://goodreads.com/marbelle)
-[![spotify profile link](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/1268047170?si=70bd315ee3ba4c40)](https://open.spotify.com/user/1268047170?si=70bd315ee3ba4c40)
+[![spotify profile link](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/1268047170?si=70bd315ee3ba4c40)]([https://open.spotify.com/user/1268047170?si=70bd315ee3ba4c40](https://open.spotify.com/playlist/2pxSmeuDAbWnIPjBDN7cgu?si=m3sgzi5mSHmXfE0iEZjmQg))
 
 ---
 
