@@ -1,6 +1,7 @@
 ## Hi there, my name is Zafira <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 
-- 📚 I’m currently studying Computer Science in University of Debrecen.
+-  I’m currently working as a Software Engineer in FinTech.
+- 📚 I've graduated from University of Debrecen with BSc of Computer Science
 - 🌱 I’m always eager to expand my knowledge.
 - 👩‍💻 I’m looking for exciting projects to contribute to and further develop my skills.
 
